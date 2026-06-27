@@ -1,0 +1,6 @@
+{
+  "name": "AI Health Monitoring Platform",
+  "description": "A comprehensive platform to collect health metrics, analyze risk factors, predict potential health conditions, visualize trends, and receive AI-powered recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
