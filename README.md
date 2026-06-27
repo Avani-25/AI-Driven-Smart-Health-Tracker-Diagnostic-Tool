@@ -10,27 +10,31 @@ The application allows users to securely manage their health profile, track impo
 
 This project demonstrates the integration of Full Stack Development,Generative AI, and Health Analytics into a scalable healthcare platform.
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
+
 **Frontend**
 React
 TypeScript
 Vite
 HTML5
 CSS3
+
 **Backend**
 Node.js
 Express.js
 TypeScript
+
 **AI & APIs**
 Google Gemini API
 Prompt Engineering
+
 **Deployment**
 Render
 Version Control
 Git
 GitHub
 
-##✨ Features
+## ✨ Features
 
 -🧠 AI-powered clinical evaluation using Google Gemini AI
 -❤️ Health risk prediction based on patient metrics
@@ -45,7 +49,8 @@ GitHub
 -🔒 Secure API key management using environment variables
 -☁️ Cloud deployment on Render
 
-##🧠 AI Workflow
+
+## 🧠 AI Workflow
 1.User enters health information.
 2.Backend validates the input.
 3.Health metrics are analyzed.
@@ -59,7 +64,7 @@ GitHub
 ## App URL
 https://ai-driven-smart-health-tracker.onrender.com
 
-##📌 Future Improvements
+## 📌 Future Improvements
 *User Authentication
 -Medical Report PDF Download
 -Patient History Database
