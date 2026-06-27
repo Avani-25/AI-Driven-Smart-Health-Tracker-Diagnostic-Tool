@@ -1,8 +1,8 @@
 # 🩺 AI-Driven Smart Health Tracker & Diagnostic Tool
 
-> An AI-powered health monitoring platform that enables users to track vital health metrics, detect potential health risks, visualize trends, and receive personalized AI-driven health insights.
->
-> ## 📌 Project Overview
+ An AI-powered health monitoring platform that enables users to track vital health metrics, detect potential health risks, visualize trends, and receive personalized AI-driven health insights.
+
+ ## 📌 Project Overview
 
 The **AI-Driven Smart Health Tracker & Diagnostic Tool** is a modern healthcare web application that combines Artificial Intelligence, data visualization, and health analytics to help users monitor their well-being in real time.
 
@@ -51,6 +51,7 @@ GitHub
 
 
 ## 🧠 AI Workflow
+
 1.User enters health information.
 2.Backend validates the input.
 3.Health metrics are analyzed.
@@ -65,7 +66,8 @@ GitHub
 https://ai-driven-smart-health-tracker.onrender.com
 
 ## 📌 Future Improvements
-*User Authentication
+
+-User Authentication
 -Medical Report PDF Download
 -Patient History Database
 -Appointment Scheduling
