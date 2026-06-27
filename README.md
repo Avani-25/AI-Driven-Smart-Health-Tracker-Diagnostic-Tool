@@ -9,3 +9,6 @@ The **AI-Driven Smart Health Tracker & Diagnostic Tool** is a modern healthcare 
 The application allows users to securely manage their health profile, track important health metrics, visualize trends, and receive AI-generated recommendations based on their health data.
 
 This project demonstrates the integration of Full Stack Development,Generative AI, and Health Analytics into a scalable healthcare platform.
+
+## App URL
+https://ai-driven-smart-health-tracker.onrender.com
