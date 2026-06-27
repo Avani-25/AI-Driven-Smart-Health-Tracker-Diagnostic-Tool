@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🩺 AI-Driven Smart Health Tracker & Diagnostic Tool
 
-# Run and deploy your AI Studio app
+> An AI-powered health monitoring platform that enables users to track vital health metrics, detect potential health risks, visualize trends, and receive personalized AI-driven health insights.
+>
+> ## 📌 Overview
 
-This contains everything you need to run your app locally.
+The **AI-Driven Smart Health Tracker & Diagnostic Tool** is a modern healthcare web application that combines Artificial Intelligence, data visualization, and health analytics to help users monitor their well-being in real time.
 
-View your app in AI Studio: https://ai.studio/apps/45a14115-4829-4d07-a5b5-8b04baed1e96
+The application allows users to securely manage their health profile, track important health metrics, visualize trends, and receive AI-generated recommendations based on their health data.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project demonstrates the integration of Full Stack Development,Generative AI, and Health Analytics into a scalable healthcare platform.
